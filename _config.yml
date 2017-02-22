@@ -3,7 +3,9 @@ title: Professor Wellington Terrão
 email: wellington.terrao@pucgoias.edu.br
 url: https://professorterrao.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills:
+  - line: 'Professor da Pontifícia Universidade Católica de Goiás'
+  - line: 'Escola de Ciências Exatas e da Computação'
 meta_author: Terrão Wellington
 
 # Google webmaster tools
