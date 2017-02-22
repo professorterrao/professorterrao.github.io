@@ -184,21 +184,6 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-section.sobre {
-    color: #fff;
-    background: #{{ site.color.primary }};
-}
-
-section.download {
-    color: #fff;
-    background: #{{ site.color.primary }};
-}
-
-section.contato {
-    color: #fff;
-    background: #{{ site.color.primary }};
-}
-
 @media(max-width:767px) {
     section {
         padding: 75px 0;
